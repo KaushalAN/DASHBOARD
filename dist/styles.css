@@ -1,0 +1,23 @@
+.logo{
+    padding: 10px;
+}
+
+.base{
+    margin: 10px;
+}
+
+.align{
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
+
+.sheets{
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    min-width: 100%;
+    max-width: 100%;
+    background-color: none;
+}
